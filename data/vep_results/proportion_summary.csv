@@ -1,0 +1,63 @@
+Type,Consequence,Frequency,Proportion
+Brain caQTL,intron variant,303,0.5976331360946746
+Brain caQTL,intergenic variant,49,0.09664694280078895
+Brain caQTL,upstream gene variant,60,0.11834319526627218
+Brain caQTL,downstream gene variant,15,0.029585798816568046
+Brain caQTL,3 prime UTR variant,18,0.03550295857988166
+Brain caQTL,5 prime UTR variant,32,0.0631163708086785
+Brain caQTL,other,30,0.05917159763313609
+Brain eQTL,intron variant,416,0.5850914205344585
+Brain eQTL,intergenic variant,101,0.1420534458509142
+Brain eQTL,upstream gene variant,50,0.07032348804500703
+Brain eQTL,downstream gene variant,40,0.056258790436005623
+Brain eQTL,3 prime UTR variant,36,0.05063291139240506
+Brain eQTL,5 prime UTR variant,17,0.02390998593530239
+Brain eQTL,other,51,0.07172995780590717
+Gill eQTL,intron variant,391,0.5741556534508077
+Gill eQTL,intergenic variant,100,0.14684287812041116
+Gill eQTL,upstream gene variant,52,0.0763582966226138
+Gill eQTL,downstream gene variant,42,0.06167400881057269
+Gill eQTL,3 prime UTR variant,35,0.0513950073421439
+Gill eQTL,5 prime UTR variant,16,0.023494860499265784
+Gill eQTL,other,45,0.06607929515418502
+Gonad caQTL,intron variant,137,0.6227272727272727
+Gonad caQTL,intergenic variant,23,0.10454545454545454
+Gonad caQTL,upstream gene variant,22,0.1
+Gonad caQTL,downstream gene variant,8,0.03636363636363636
+Gonad caQTL,3 prime UTR variant,4,0.01818181818181818
+Gonad caQTL,5 prime UTR variant,8,0.03636363636363636
+Gonad caQTL,other,18,0.08181818181818182
+Gonad eQTL,intron variant,300,0.6147540983606558
+Gonad eQTL,intergenic variant,66,0.13524590163934427
+Gonad eQTL,upstream gene variant,27,0.055327868852459015
+Gonad eQTL,downstream gene variant,28,0.05737704918032787
+Gonad eQTL,3 prime UTR variant,28,0.05737704918032787
+Gonad eQTL,5 prime UTR variant,10,0.020491803278688523
+Gonad eQTL,other,29,0.05942622950819672
+Liver caQTL,intron variant,168,0.5454545454545454
+Liver caQTL,intergenic variant,40,0.12987012987012986
+Liver caQTL,upstream gene variant,29,0.09415584415584416
+Liver caQTL,downstream gene variant,13,0.04220779220779221
+Liver caQTL,3 prime UTR variant,14,0.045454545454545456
+Liver caQTL,5 prime UTR variant,18,0.05844155844155844
+Liver caQTL,other,26,0.08441558441558442
+Liver eQTL,intron variant,149,0.5398550724637681
+Liver eQTL,intergenic variant,45,0.16304347826086957
+Liver eQTL,upstream gene variant,23,0.08333333333333333
+Liver eQTL,downstream gene variant,20,0.07246376811594203
+Liver eQTL,3 prime UTR variant,14,0.050724637681159424
+Liver eQTL,5 prime UTR variant,5,0.018115942028985508
+Liver eQTL,other,20,0.07246376811594203
+Muscle caQTL,intron variant,65,0.4961832061068702
+Muscle caQTL,intergenic variant,32,0.24427480916030533
+Muscle caQTL,upstream gene variant,18,0.13740458015267176
+Muscle caQTL,downstream gene variant,2,0.015267175572519083
+Muscle caQTL,5 prime UTR variant,7,0.05343511450381679
+Muscle caQTL,other,7,0.05343511450381679
+Muscle eQTL,intron variant,154,0.5855513307984791
+Muscle eQTL,intergenic variant,41,0.155893536121673
+Muscle eQTL,upstream gene variant,24,0.09125475285171103
+Muscle eQTL,downstream gene variant,17,0.06463878326996197
+Muscle eQTL,3 prime UTR variant,10,0.03802281368821293
+Muscle eQTL,5 prime UTR variant,8,0.030418250950570342
+Muscle eQTL,other,9,0.034220532319391636
